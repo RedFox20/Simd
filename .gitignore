@@ -1,0 +1,3 @@
+src/Simd/SimdVersion.h
+mama.cmake
+prj/txt/FullVersion.txt
